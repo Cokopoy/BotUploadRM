@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  telegram-bot:
+    build: .
+    container_name: telegram-poli-bot
+    restart: always
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./credentials.json:/app/credentials.json:ro
+      - ./files_db.json:/app/files_db.json
+      - ./temp:/app/temp
+    working_dir: /app
+    command: python bot.py
+    logs:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"

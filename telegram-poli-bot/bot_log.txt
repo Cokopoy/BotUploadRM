@@ -1,0 +1,14 @@
+d:\Latihan Olah Data\Tools\BotTelegram\telegram-poli-bot\bot.py:829: PTBUserWarning: If 'per_message=False', 'CallbackQueryHandler' will not be tracked for every message. Read this FAQ entry to learn more about the per_* settings: https://github.com/python-telegram-bot/python-telegram-bot/wiki/Frequently-Asked-Questions#what-do-the-per_-settings-in-conversationhandler-do.
+  conv_handler = ConversationHandler(
+^Cd:\Latihan Olah Data\Tools\BotTelegram\telegram-poli-bot\bot.py:829: PTBUserWarning: If 'per_message=False', 'CallbackQueryHandler' will not be tracked for every message. Read this FAQ entry to learn more about the per_* settings: https://github.com/python-telegram-bot/python-telegram-bot/wiki/Frequently-Asked-Questions#what-do-the-per_-settings-in-conversationhandler-do.
+  conv_handler = ConversationHandler(
+^Cd:\Latihan Olah Data\Tools\BotTelegram\telegram-poli-bot\bot.py:829: PTBUserWarning: If 'per_message=False', 'CallbackQueryHandler' will not be tracked for every message. Read this FAQ entry to learn more about the per_* settings: https://github.com/python-telegram-bot/python-telegram-bot/wiki/Frequently-Asked-Questions#what-do-the-per_-settings-in-conversationhandler-do.
+  conv_handler = ConversationHandler(
+d:\Latihan Olah Data\Tools\BotTelegram\telegram-poli-bot\bot.py:92: DeprecationWarning: The default datetime adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cursor.execute('''
+^Cd:\Latihan Olah Data\Tools\BotTelegram\telegram-poli-bot\bot.py:829: PTBUserWarning: If 'per_message=False', 'CallbackQueryHandler' will not be tracked for every message. Read this FAQ entry to learn more about the per_* settings: https://github.com/python-telegram-bot/python-telegram-bot/wiki/Frequently-Asked-Questions#what-do-the-per_-settings-in-conversationhandler-do.
+  conv_handler = ConversationHandler(
+^Cd:\Latihan Olah Data\Tools\BotTelegram\telegram-poli-bot\bot.py:829: PTBUserWarning: If 'per_message=False', 'CallbackQueryHandler' will not be tracked for every message. Read this FAQ entry to learn more about the per_* settings: https://github.com/python-telegram-bot/python-telegram-bot/wiki/Frequently-Asked-Questions#what-do-the-per_-settings-in-conversationhandler-do.
+  conv_handler = ConversationHandler(
+^Cd:\Latihan Olah Data\Tools\BotTelegram\telegram-poli-bot\bot.py:829: PTBUserWarning: If 'per_message=False', 'CallbackQueryHandler' will not be tracked for every message. Read this FAQ entry to learn more about the per_* settings: https://github.com/python-telegram-bot/python-telegram-bot/wiki/Frequently-Asked-Questions#what-do-the-per_-settings-in-conversationhandler-do.
+  conv_handler = ConversationHandler(
